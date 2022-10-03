@@ -2,7 +2,7 @@
 ## Background
 **Name:** Samhita Kadali
 
-*-School:* UCSD
+*School:* UCSD
 
 __ Major: __ BENG: Bioinformatics
 

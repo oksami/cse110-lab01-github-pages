@@ -4,7 +4,7 @@
 
 *School:* UCSD
 
-__ Major: __ BENG: Bioinformatics
+__Major:__ BENG: Bioinformatics
 
 Programming Languages: Python, Java, C, C++, R, SQL
 
